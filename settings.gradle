@@ -9,4 +9,4 @@ pluginManagement {
       id 'io.quarkus' version "${quarkusPluginVersion}"
     }
 }
-rootProject.name='quarkus-study-gradle'
+rootProject.name='devops-quarkus'
